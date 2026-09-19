@@ -1,0 +1,7 @@
+@"
+rpvenv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/raw/
+"@ | Set-Content .gitignore
