@@ -4,3 +4,28 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 data/raw/
+# Environments
+rpvenv/
+venv/
+.venv/
+
+# Datasets
+data/
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+*.tif
+*.tiff
+*.svs
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated outputs (large files)
+outputs/
+notebooks/outputs/
